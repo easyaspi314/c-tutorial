@@ -1,6 +1,6 @@
 # easyaspi314's C Tutorial
 
-[Next](./lesson1.md)
+[Next](https://github.com/easyaspi314/c-tutorial/blob/master/lesson1.md)
 
 C is a (fairly) simple language, but it can be confusing at first. If you know C++, JavaScript, PHP, or Java, a lot of this will seem familiar.
 
@@ -63,9 +63,9 @@ It is not a direct transcript, so it is still worth watching. You can watch it h
     <img src="http://img.youtube.com/vi/BJK8c9bUEEc/0.jpg" alt="easyaspi314's C tutorial, part 1" width="240" height="180" border="10" />
 </a>
 
-[Lesson 1: Hello, world!](./lesson1.md)
+[Lesson 1: Hello, world!](https://github.com/easyaspi314/c-tutorial/blob/master/lesson1.md)
 
-[Lesson 2: Break it up!](./lesson2.md)
+[Lesson 2: Break it up!](https://github.com/easyaspi314/c-tutorial/blob/master/lesson2.md)
 
 Other links:
 
@@ -73,4 +73,4 @@ Other links:
 
 Later parts coming soon!
 
-[Next](./lesson1.md)
+[Next](https://github.com/easyaspi314/c-tutorial/blob/master/lesson1.md)

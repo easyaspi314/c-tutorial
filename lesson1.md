@@ -1,6 +1,6 @@
 # easyaspi314's C tutorial, continued
 
-[Home](./README.md) | [Previous](./README.md) | [Next](./lesson2.md)
+[Home](https://github.com/easyaspi314/c-tutorial/blob/master/README.md) | [Previous](https://github.com/easyaspi314/c-tutorial/blob/master/README.md) | [Next](https://github.com/easyaspi314/c-tutorial/blob/master/lesson2.md)
 
 ## Lesson 1: "Hello world!"
 
@@ -96,7 +96,7 @@ int main(void)
 
 This is a **function declaration**. You can identify the **function signature** like so:
 
-![main is a function that has no arguments (is void of arguments) and has a return type of int](./images/main.png)
+![main is a function that has no arguments (is void of arguments) and has a return type of int](https://raw.githubusercontent.com/easyaspi314/c-tutorial/master/images/main.png)
 
 A **function** is a set of instructions that can be reused. Think of it like a recipe. It can take in values and spit out up to one value.
 
@@ -259,4 +259,4 @@ To check this, in bash, run `./hello; echo $?` (note the semicolon, not the doub
 
 This all ends in that closing brace. Congratulations, you have created a "Hello, world!" program and completely beaten the concept to death (don't worry, the later lessons are much shorter)!
 
-[Home](./README.md) | [Previous](./README.md) | [Next](./lesson2.md)
+[Home](https://github.com/easyaspi314/c-tutorial/blob/master/README.md) | [Previous](https://github.com/easyaspi314/c-tutorial/blob/master/README.md) | [Next](https://github.com/easyaspi314/c-tutorial/blob/master/lesson2.md)

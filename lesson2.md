@@ -1,6 +1,6 @@
 # easyaspi314's C tutorial, continued
 
-[Home](./README.md) | [Previous](./lesson1.md)
+[Home](https://github.com/easyaspi314/c-tutorial/blob/master/README.md) | [Previous](https://github.com/easyaspi314/c-tutorial/blob/master/lesson1.md)
 
 ## Lesson 2: Break it up!
 
@@ -382,4 +382,4 @@ Try compiling it again, and it's all good!
 
 For good measure, do the same thing for hello2.h.
 
-[Home](./README.md) | [Previous](./lesson1.md)
+[Home](https://github.com/easyaspi314/c-tutorial/blob/master/README.md) | [Previous](https://github.com/easyaspi314/c-tutorial/blob/master/lesson1.md)
